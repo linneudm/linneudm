@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently working on Python (Django) and VueJS
 - 🌱 I’m currently learning ReactJS and React Native
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Open Source
+- 👯 I’m looking to collaborate on Open Source
 - 💬 Ask me about anything
 - 📫 How to reach me: Twitter - @linneudm
 - 😄 Pronouns: He/Him
