@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![twitter badge](https://img.shields.io/badge/@candidosales-30302f?style=flat&logo=twitter)](https://twitter.com/candidosales)
-[![medium badge](https://img.shields.io/badge/@candidosales-30302f?style=flat&logo=medium)](https://medium.com/@candidosales)
+[![twitter badge](https://img.shields.io/badge/@linneudm-30302f?style=flat&logo=twitter)](https://twitter.com/linneudm)
 
 - 🔭 I’m currently working on Python (Django) and VueJS
 - 🌱 I’m currently learning ReactJS and React Native
