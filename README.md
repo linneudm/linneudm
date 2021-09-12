@@ -9,4 +9,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: Twitter - @linneudm
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like Macaruja
+- ⚡ Fun fact: I like Maracuja
